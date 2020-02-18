@@ -1,3 +1,5 @@
+.evn/
+
 # VSCode extension
 .vscode/
 /.favorites.json
